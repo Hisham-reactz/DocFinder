@@ -1,7 +1,7 @@
 # docfinder
 
-Find The Doctor
+Flutter project
 
 ## Getting Started
 
-Find The Doctor In Your Location & Make Video call
+Flutter Firebase Firestore Goefire , Geo-location , Video conference plugins eg
