@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16263220108",
+    "project_id": "docfinder-b1b96",
+    "storage_bucket": "docfinder-b1b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16263220108:android:354a008d24ee21d74be4a9",
+        "android_client_info": {
+          "package_name": "com.example.docfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16263220108-f9kftc7l5mttjuscqc8mde6t0n3lqgcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPrFg4P8v6W6rszOQ0WZH3GPBMTn4mIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16263220108-f9kftc7l5mttjuscqc8mde6t0n3lqgcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
